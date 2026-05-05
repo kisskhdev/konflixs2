@@ -1,818 +1,1316 @@
 1
-00:00:04,740 --> 00:00:05,950
-I'm so sorry.
+00:00:14,430 --> 00:00:15,430
+Um...
 
 2
-00:00:06,620 --> 00:00:08,880
-I've come down with a fever.
+00:00:15,750 --> 00:00:17,050
+Do you take digital payments?
 
 3
-00:00:10,990 --> 00:00:11,990
-Yes.
+00:00:17,130 --> 00:00:19,040
+Sorry, we're cash only.
 
 4
-00:00:12,830 --> 00:00:14,440
-I should be able to make it in tomorrow.
+00:00:20,130 --> 00:00:21,740
+- Oh, I see.
+- Yes, sorry.
 
 5
-00:00:15,860 --> 00:00:16,860
-Okay.
+00:00:22,970 --> 00:00:25,970
+As I prepare to set foot on a path
+I never imagined taking,
 
 6
-00:00:22,140 --> 00:00:23,140
-*Sigh*
+00:00:27,280 --> 00:00:28,380
+I find myself
 
 7
-00:00:23,870 --> 00:00:25,920
-I shouldn't have hung
-around there after that.
+00:00:28,430 --> 00:00:30,370
+feeling a little shaken.
 
 8
-00:00:26,310 --> 00:00:28,510
-I should've just gone straight home.
+00:00:33,150 --> 00:00:34,390
+Thanks for coming.
 
 9
-00:00:31,990 --> 00:00:33,636
-Did you think that just because you called,
+00:00:34,720 --> 00:00:37,360
+You saved me from
+accidentally dining and dashing.
 
 10
-00:00:33,660 --> 00:00:35,310
-I'd come running to you?
+00:00:38,750 --> 00:00:40,840
+Don't treat your employer
+like your personal errand boy.
 
 11
-00:00:35,930 --> 00:00:38,070
-What do you even know about me?
+00:00:41,490 --> 00:00:42,490
+Here.
 
 12
-00:00:38,440 --> 00:00:40,240
-We've only slept together a few times.
+00:00:43,500 --> 00:00:44,500
+Candy?
 
 13
-00:00:41,330 --> 00:00:42,810
-Let's not see each other for a while.
+00:00:45,210 --> 00:00:46,210
+That's a first.
 
 14
-00:00:48,930 --> 00:00:51,190
-How long is "for a while" supposed to be?
+00:00:47,080 --> 00:00:49,800
+I'm trying to quit smoking to save money.
 
 15
-00:00:52,670 --> 00:00:54,070
-Dammit!
+00:00:50,820 --> 00:00:51,820
+To save money?
 
 16
-00:00:59,350 --> 00:01:01,880
-For a while.
+00:00:52,930 --> 00:00:53,930
+It's important, you know.
 
 17
-00:01:03,280 --> 00:01:06,220
-(Online Dictionary) Refers to a
-short time, but not immediately.
+00:00:54,170 --> 00:00:55,170
+Saving up...
 
 18
-00:01:07,530 --> 00:01:09,360
-What am I even looking up?
+00:00:59,830 --> 00:01:02,070
+for tuition,
 
 19
-00:01:17,710 --> 00:01:20,010
-People are surprisingly fragile.
+00:01:03,480 --> 00:01:05,280
+textbooks...
 
 20
-00:01:21,980 --> 00:01:24,870
-Apparently, you can
-die just from dehydration.
+00:01:06,150 --> 00:01:08,450
+And commuting costs
+really start to add up.
 
 21
-00:01:25,660 --> 00:01:29,090
-If I collapse like this, I'm in trouble.
+00:01:11,360 --> 00:01:12,810
+It all comes down to money.
 
 22
-00:01:32,640 --> 00:01:34,680
-Even getting a glass
-of water is a struggle.
+00:01:14,160 --> 00:01:15,160
+And then,
 
 23
-00:01:37,290 --> 00:01:38,420
-At a time like this,
+00:01:15,170 --> 00:01:16,630
+of all times...
 
 24
-00:01:38,890 --> 00:01:41,650
-I don't have anyone I can just call.
+00:01:17,070 --> 00:01:19,440
+Wait! Dad's coming back?
 
 25
-00:01:48,260 --> 00:01:50,990
-I can't reach out to anyone.
+00:01:19,990 --> 00:01:21,570
+Not until next spring,
 
 26
-00:01:54,750 --> 00:01:55,750
-Whatever.
+00:01:22,000 --> 00:01:23,990
+but his time away is finally over.
 
 27
-00:01:55,940 --> 00:01:56,940
-It doesn't matter.
+00:01:24,550 --> 00:01:25,550
+Are you serious?
 
 28
-00:01:57,550 --> 00:01:59,320
-There's no point in trying so hard anymore.
+00:01:26,190 --> 00:01:29,180
+Honestly, it feels a little awkward
+having him back now.
 
 29
-00:01:59,980 --> 00:02:01,690
-I have nothing left to lose.
+00:01:29,470 --> 00:01:32,340
+Hey, don't say that.
+Poor Dad.
 
 30
-00:02:04,530 --> 00:02:05,900
-Ah...
-
-31
-00:02:06,530 --> 00:02:07,650
-But still...
-
-32
-00:02:08,550 --> 00:02:09,990
-If I could, I'd really like to...
-
-33
-00:02:10,950 --> 00:02:12,100
-one last time...
-
-34
-00:02:14,210 --> 00:02:15,210
-Kaji.
-
-35
-00:02:16,250 --> 00:02:17,250
-Kaji.
-
-36
-00:02:19,450 --> 00:02:20,450
-Are you okay?
-
-37
-00:02:22,380 --> 00:02:23,380
-What are you doing here?
-
-38
-00:02:24,630 --> 00:02:26,030
-Didn't you call me?
-
-39
-00:02:27,940 --> 00:02:29,280
-Did I?
-
-40
-00:02:34,930 --> 00:02:36,070
-You're burning up.
-
-41
-00:02:36,500 --> 00:02:37,870
-Here, drink something first.
-
-42
-00:02:49,710 --> 00:02:51,250
-Your mouth is so hot.
-
-43
-00:02:52,530 --> 00:02:53,530
-I'll catch it.
-
-44
-00:02:55,030 --> 00:02:57,630
-Yeah, you probably will.
-
-45
-00:02:59,220 --> 00:03:00,220
-But I can't help it.
-
-46
-00:03:01,270 --> 00:03:02,270
-I'm sorry,
-
-47
-00:03:03,630 --> 00:03:05,970
-but I want to give it to you.
-
-48
-00:03:21,330 --> 00:03:22,630
-Can we just
-
-49
-00:03:23,850 --> 00:03:25,070
-stay like this all day?
-
-50
-00:03:30,150 --> 00:03:31,150
-This feels nice.
-
-51
-00:03:31,830 --> 00:03:32,830
-Like this,
-
-52
-00:03:33,760 --> 00:03:36,540
-it feels like I don't have
-to worry about anything.
-
-53
-00:03:47,090 --> 00:03:48,480
-Touch me.
-
-54
-00:03:49,680 --> 00:03:51,320
-I'll comfort you too.
-
-55
-00:04:14,970 --> 00:04:15,970
-Oh no...
-
-56
-00:04:17,540 --> 00:04:18,740
-I'm going to come.
-
-57
-00:04:21,196 --> 00:04:22,196
-Kaji.
-
-58
-00:04:23,290 --> 00:04:24,410
-Let's kiss.
-
-59
-00:04:32,400 --> 00:04:33,670
-It's like a dream.
-
-60
-00:04:41,820 --> 00:04:42,820
-Kaji.
-
-61
-00:04:43,810 --> 00:04:45,950
-Is this okay?
-
-62
-00:04:48,830 --> 00:04:49,830
-Fukami...
-
-63
-00:04:50,320 --> 00:04:52,360
-I told him we shouldn't
-see each other for a while,
-
-64
-00:04:52,700 --> 00:04:54,560
-but I didn't mean it.
-
-65
-00:04:56,460 --> 00:04:57,660
-I really wanted
-
-66
-00:04:57,940 --> 00:04:59,210
-to be kinder to him.
-
-67
-00:05:05,760 --> 00:05:06,860
-A dream?
-
-68
-00:05:15,270 --> 00:05:17,420
-Just kill me now.
-
-69
-00:05:19,000 --> 00:05:20,500
-"Unexpectedly Naughty Fukami"
-
-70
-00:05:20,560 --> 00:05:22,410
-At times like this, I need to work.
-
-71
-00:05:22,600 --> 00:05:24,750
-Use work to forget all
-these useless worries.
-
-72
-00:05:25,000 --> 00:05:26,610
-Sorry to worry you.
-
-73
-00:05:27,070 --> 00:05:28,376
-(Episode 5)
-My fever's gone down a bit.
-
-74
-00:05:28,400 --> 00:05:30,300
-I'll work from home for now.
-
-75
-00:05:31,050 --> 00:05:32,050
-Huh?
-
-76
-00:05:32,250 --> 00:05:33,679
-If you don't rest,
-
-77
-00:05:33,680 --> 00:05:35,520
-HR will be all over me.
-
-78
-00:05:35,760 --> 00:05:37,430
-Just take the day off.
-
-79
-00:05:41,750 --> 00:05:45,070
-Being idle just makes things worse.
-
-80
-00:05:49,500 --> 00:05:50,819
-If I can't work,
-
-81
-00:05:50,820 --> 00:05:52,890
-I might as well deal with this frustration.
-
-82
-00:05:53,720 --> 00:05:55,060
-Having dreams like that
-
-83
-00:05:55,470 --> 00:05:57,000
-is just a sign of being unsatisfied.
-
-84
-00:06:06,150 --> 00:06:07,150
-Is he
-
-85
-00:06:07,450 --> 00:06:08,450
-still mad?
-
-86
-00:06:09,930 --> 00:06:11,630
-Wait, he never
-
-87
-00:06:11,960 --> 00:06:14,000
-asked if he was the only one anyway.
-
-88
-00:06:19,000 --> 00:06:21,400
-(40-pointer: Want to meet today?)
-
-89
-00:06:21,490 --> 00:06:23,230
-He's got a decent face,
-
-90
-00:06:23,650 --> 00:06:25,500
-but he's a loud "40-point" guy.
-
-91
-00:06:32,490 --> 00:06:34,330
-As long as I don't get
-attached to one person,
-
-92
-00:06:34,850 --> 00:06:36,990
-I won't have to feel this pathetic.
-
-93
-00:06:41,380 --> 00:06:43,480
-Wait, do we really need all these files?
-
-94
-00:06:43,890 --> 00:06:44,790
-Please.
-
-95
-00:06:44,791 --> 00:06:46,499
-Kaji-kun still has a high fever.
-
-96
-00:06:46,500 --> 00:06:47,920
-Let him rest.
-
-97
-00:06:48,050 --> 00:06:49,560
-Oh, fine.
-
-98
-00:06:49,850 --> 00:06:50,850
-I get it.
-
-99
-00:06:51,730 --> 00:06:54,030
-Get well soon, Kaji-san.
-
-100
-00:07:07,490 --> 00:07:08,830
-Come on in.
-
-101
-00:07:09,210 --> 00:07:10,900
-Have a seat on the sofa.
-
-102
-00:07:13,010 --> 00:07:15,470
-I'm surprised you invited me over.
-
-103
-00:07:16,960 --> 00:07:18,160
-Want to shower first?
-
-104
-00:07:20,950 --> 00:07:22,570
-You seem like a different person.
-
-105
-00:07:24,210 --> 00:07:26,740
-Usually you're ready to kick
-me out the second we're done.
-
-106
-00:07:28,700 --> 00:07:29,960
-Am I?
-
-107
-00:07:30,380 --> 00:07:31,380
+00:01:32,780 --> 00:01:33,780
 Yeah.
 
-108
-00:07:33,180 --> 00:07:34,280
-But
+31
+00:01:34,010 --> 00:01:36,680
+You know, Sakutaro,
+you're welcome to keep living here.
 
-109
-00:07:34,570 --> 00:07:35,800
-I didn't mind it that way.
+32
+00:01:36,680 --> 00:01:37,880
+We have the extra room anyway.
 
-110
-00:07:38,830 --> 00:07:39,830
+33
+00:01:37,900 --> 00:01:40,200
+- No, I couldn't impose like that.
+- Exactly.
+
+34
+00:01:40,470 --> 00:01:41,990
+Saku-chan, you're not allowed to move out.
+
+35
+00:01:42,110 --> 00:01:43,210
+We have to stay together forever!
+
+36
+00:01:43,540 --> 00:01:44,890
+Together forever, huh...
+
+37
+00:01:44,940 --> 00:01:47,410
+Why don't you try saying that to your father?
+
+38
+00:01:58,120 --> 00:01:59,120
+Sigh...
+
+39
+00:02:05,100 --> 00:02:09,100
+(Incoming Call: Tajimi Yasuyuki)
+
+40
+00:02:45,000 --> 00:02:50,300
+"Life In Smokey Blue"
+
+41
+00:02:50,400 --> 00:02:54,100
+(Episode 5: A New Step)
+
+42
+00:02:54,150 --> 00:02:55,780
+Sorry to call you over like this
+on such short notice.
+
+43
+00:03:00,020 --> 00:03:01,120
+The thing is,
+
+44
+00:03:01,640 --> 00:03:04,970
+I heard you quit your job as an MR.
+
+45
+00:03:05,220 --> 00:03:07,640
+Oh, yes.
+
+46
+00:03:08,390 --> 00:03:11,440
+I'm doing some translation work
+for an acquaintance now.
+
+47
+00:03:12,160 --> 00:03:13,700
+It's more of a freelance gig.
+
+48
+00:03:13,830 --> 00:03:15,430
+- Translation?
+- Yes.
+
+49
+00:03:17,000 --> 00:03:18,250
+I knew it.
+
+50
+00:03:18,340 --> 00:03:20,770
+You always did have a gift for it.
+
+51
+00:03:21,260 --> 00:03:22,560
+You're probably the only person
+
+52
+00:03:22,650 --> 00:03:24,040
+who would ever say that to me, Tajimi-san.
+
+53
+00:03:24,510 --> 00:03:25,930
+I still remember
+
+54
+00:03:26,250 --> 00:03:29,790
+that Auster book you translated in class...
+
+55
+00:03:30,650 --> 00:03:32,310
+- "Ghosts."
+- That's it, "Ghosts."
+
+56
+00:03:32,310 --> 00:03:33,330
+Paul Auster's "Ghosts."
+
+57
+00:03:42,420 --> 00:03:43,540
+So, the reason I called...
+
+58
+00:03:44,740 --> 00:03:45,840
+I have something I'd like to discuss.
+
+59
+00:03:48,250 --> 00:03:49,780
+At the start of a new journey,
+
+60
+00:03:50,410 --> 00:03:52,370
+unexpected paths begin to open up.
+
+61
+00:03:54,400 --> 00:03:55,730
+It's taking a shape
+
+62
+00:03:56,310 --> 00:03:57,550
+that's slightly different from before.
+
+63
+00:03:58,530 --> 00:03:59,950
+Bright...
+
+64
+00:04:00,760 --> 00:04:01,870
+Clear.
+
+65
+00:04:03,370 --> 00:04:04,470
+Weep...
+
+66
+00:04:06,070 --> 00:04:08,090
+Shedding.
+
+67
+00:04:11,990 --> 00:04:13,810
+This is from "Song of Spring"...
+
+68
+00:04:14,600 --> 00:04:15,600
+How's the progress?
+
+69
+00:04:15,930 --> 00:04:17,130
+You scared me!
+
+70
+00:04:18,480 --> 00:04:19,680
+When did you get back?
+
+71
+00:04:19,830 --> 00:04:20,830
+Just now.
+
+72
+00:04:22,340 --> 00:04:25,300
+Oh. How did the meeting go?
+
+73
+00:04:25,370 --> 00:04:26,910
+Fine. Same as usual.
+
+74
+00:04:27,930 --> 00:04:28,930
+Here.
+
+75
+00:04:29,330 --> 00:04:30,530
+A little something for you.
+
+76
+00:04:32,120 --> 00:04:34,550
+The person I met with
+happened to be a candy-giver.
+
+77
+00:04:35,910 --> 00:04:37,570
+And you actually took some?
+
+78
+00:04:38,360 --> 00:04:41,000
+I figured someone I know
+usually carries candy around.
+
+79
+00:04:42,360 --> 00:04:44,330
+You're so sweet, Shizuka-chan.
+
+80
+00:04:53,460 --> 00:04:55,020
+You've made a lot of progress.
+
+81
+00:05:01,930 --> 00:05:02,930
 Actually...
 
+82
+00:05:06,330 --> 00:05:07,330
+Yeah?
+
+83
+00:05:09,240 --> 00:05:10,240
+I...
+
+84
+00:05:11,040 --> 00:05:13,180
+I'm going to work as a cram school teacher.
+
+85
+00:05:15,580 --> 00:05:16,780
+A cram school teacher?
+
+86
+00:05:17,270 --> 00:05:18,270
+Yeah.
+
+87
+00:05:19,840 --> 00:05:23,250
+I did it part-time back in college.
+
+88
+00:05:25,940 --> 00:05:27,510
+An upperclassman I worked with
+
+89
+00:05:27,960 --> 00:05:30,010
+asked if I'd join him.
+
+90
+00:05:31,710 --> 00:05:32,710
+Oh...
+
+91
+00:05:33,760 --> 00:05:34,940
+Is this the one you mentioned before,
+
+92
+00:05:35,550 --> 00:05:37,210
+the one who studied abroad?
+
+93
+00:05:37,750 --> 00:05:38,750
+That's the one.
+
+94
+00:05:38,880 --> 00:05:41,000
+He's the one who praised my translation.
+
+95
+00:05:43,430 --> 00:05:44,860
+He's always looked out for me,
+
+96
+00:05:45,420 --> 00:05:47,110
+and he's been checking in on me lately.
+
+97
+00:05:49,320 --> 00:05:50,320
+So,
+
+98
+00:05:52,460 --> 00:05:54,040
+thinking about the future,
+
+99
+00:05:54,820 --> 00:05:57,580
+I think it's best if I go help him out.
+
+100
+00:06:00,550 --> 00:06:01,550
+I see.
+
+101
+00:06:06,200 --> 00:06:07,200
+Which means...
+
+102
+00:06:11,540 --> 00:06:12,760
+regarding my work here with you,
+
+103
+00:06:14,560 --> 00:06:16,370
+once I finish this glossary,
+
+104
+00:06:17,790 --> 00:06:19,000
+I'd like to resign.
+
+105
+00:06:23,490 --> 00:06:24,880
+I know it's sudden and selfish,
+
+106
+00:06:25,360 --> 00:06:26,460
+and I'm really sorry.
+
+107
+00:06:29,900 --> 00:06:30,900
+I understand.
+
+108
+00:06:32,990 --> 00:06:34,880
+I expect to be done by the end of the year.
+
+109
+00:06:37,030 --> 00:06:40,500
+Okay, got it.
+
+110
+00:07:00,160 --> 00:07:01,670
+Well, that was straightforward.
+
 111
-00:07:39,960 --> 00:07:41,340
-Can I shower first?
+00:07:13,220 --> 00:07:14,440
+It's tight...
 
 112
-00:07:41,830 --> 00:07:42,930
-I'm all sweaty.
+00:07:15,447 --> 00:07:17,047
+[Onboarding documentation for his new job]
 
 113
-00:07:54,300 --> 00:07:57,600
-(Zero-point guy: I'm nearby. Are you home?)
-
-114
-00:07:57,640 --> 00:07:58,640
-Zero points.
-
-115
-00:08:05,180 --> 00:08:06,380
-What is this?
-
-116
-00:08:09,320 --> 00:08:10,520
-I used to think love
-
-117
-00:08:11,310 --> 00:08:14,400
-was something I didn't need in my life.
-
-118
-00:08:18,340 --> 00:08:19,980
-Even today,
-
-119
-00:08:22,450 --> 00:08:23,780
-I just felt like
-
-120
-00:08:24,580 --> 00:08:25,580
-I wanted to do it.
-
-121
-00:08:32,150 --> 00:08:33,470
-It's so embarrassing.
-
-122
-00:08:34,070 --> 00:08:36,440
-Acting all desperate
-like some guy in a porn.
-
-123
-00:08:37,300 --> 00:08:38,720
-I should be more composed.
-
-124
-00:08:38,810 --> 00:08:40,850
-Like, just kissing and stuff.
-
-125
-00:08:47,460 --> 00:08:48,900
-Wait, right here?
-
-126
-00:08:51,500 --> 00:08:53,060
-When I'm with you,
-
-127
-00:08:53,450 --> 00:08:54,950
-I don't feel like myself anymore.
-
-128
-00:09:03,660 --> 00:09:05,150
-- Never mind.
-- Akihiro.
-
-129
-00:09:07,780 --> 00:09:08,980
-You should at least know
-
-130
-00:09:09,690 --> 00:09:11,580
-the name of the person
-you're sleeping with.
-
-131
-00:09:16,220 --> 00:09:19,320
-Why am I realizing this now of all times?
-
-132
-00:09:30,690 --> 00:09:31,790
-That took a while.
-
-133
-00:09:33,100 --> 00:09:34,200
-Hey...
-
-134
-00:09:37,580 --> 00:09:38,580
-Sorry.
-
-135
-00:09:44,630 --> 00:09:46,980
-You really didn't have
-to walk me to the station.
-
-136
-00:09:47,260 --> 00:09:48,420
-At least let me do this much.
-
-137
-00:09:49,840 --> 00:09:51,080
-I hope things work out for you.
-
-138
-00:09:52,430 --> 00:09:53,430
-I'm sorry.
-
-139
-00:09:54,560 --> 00:09:56,160
-I told you, stop apologizing.
-
-140
-00:10:01,370 --> 00:10:02,370
-Fukami.
-
-141
-00:10:07,080 --> 00:10:08,540
-I was in the neighborhood
-
-142
-00:10:09,950 --> 00:10:11,590
-and heard you were sick.
-
-143
-00:10:13,860 --> 00:10:15,020
+00:07:17,610 --> 00:07:18,480
 Oh.
 
+114
+00:07:18,480 --> 00:07:19,640
+Azuma, let me introduce you.
+
+115
+00:07:19,640 --> 00:07:21,370
+This is Ms. Shimada from the office.
+
+116
+00:07:21,500 --> 00:07:22,500
+I'm Shimada. Nice to meet you.
+
+117
+00:07:22,600 --> 00:07:23,620
+I'm Azuma. Nice to meet you too.
+
+118
+00:07:23,680 --> 00:07:25,120
+I'll be in your care starting next month.
+
+119
+00:07:25,990 --> 00:07:26,990
+Looking forward to it.
+
+120
+00:07:29,910 --> 00:07:30,910
+Whoa.
+
+121
+00:07:33,290 --> 00:07:34,770
+Are you serious?
+
+122
+00:08:00,260 --> 00:08:01,260
+Yeah.
+
+123
+00:08:02,590 --> 00:08:03,790
+The layout is very clear.
+
+124
+00:08:05,250 --> 00:08:06,350
+It's finally finished.
+
+125
+00:08:12,960 --> 00:08:14,340
+Thank goodness.
+
+126
+00:08:20,200 --> 00:08:21,200
+Well then...
+
+127
+00:08:21,350 --> 00:08:22,820
+I should probably head out.
+
+128
+00:08:24,230 --> 00:08:25,230
+Yeah.
+
+129
+00:08:52,280 --> 00:08:53,530
+Winter thunder.
+
+130
+00:08:55,810 --> 00:08:57,050
+You don't hear that often.
+
+131
+00:09:00,010 --> 00:09:01,010
+Huh?
+
+132
+00:09:06,410 --> 00:09:07,510
+The power's out.
+
+133
+00:09:08,800 --> 00:09:10,000
+Is the data okay?
+
+134
+00:09:10,080 --> 00:09:11,610
+The data's fine, but...
+
+135
+00:09:13,900 --> 00:09:15,750
+I can't do any more work today.
+
+136
+00:09:16,510 --> 00:09:17,510
+And just so you know,
+
+137
+00:09:17,810 --> 00:09:19,060
+my deadline is tomorrow morning.
+
+138
+00:09:19,750 --> 00:09:20,910
+Oh...
+
+139
+00:09:22,380 --> 00:09:23,440
+That's rare for you.
+
+140
+00:09:23,900 --> 00:09:25,290
+You're usually so ahead of schedule.
+
+141
+00:09:27,110 --> 00:09:28,110
+Ah.
+
+142
+00:09:28,790 --> 00:09:30,540
+Does this have to do with
+what happened in Yamanashi?
+
+143
+00:09:30,540 --> 00:09:31,780
+That has nothing to do with this.
+
 144
-00:10:16,080 --> 00:10:17,980
-So you're the "Zero-point guy."
+00:09:36,210 --> 00:09:37,210
+Well,
 
 145
-00:10:19,460 --> 00:10:21,450
-I saw his contact list.
+00:09:37,860 --> 00:09:39,320
+if you use your laptop...
 
 146
-00:10:21,900 --> 00:10:23,380
-He actually rates every guy he knows.
+00:09:39,410 --> 00:09:43,800
+Sorry, I'm only at 3%.
 
 147
-00:10:24,200 --> 00:10:25,500
-I'm a 40.
+00:09:45,520 --> 00:09:46,520
+Oh.
 
 148
-00:10:25,840 --> 00:10:27,290
-And you're a zero.
+00:09:50,840 --> 00:09:52,490
+I guess we wait for the power.
 
 149
-00:10:27,920 --> 00:10:29,150
-Funny, right?
+00:09:54,250 --> 00:09:55,450
+Not much else we can do.
 
 150
-00:10:30,360 --> 00:10:32,510
-I can't believe I kept in
-touch with a guy like this.
+00:09:57,480 --> 00:09:58,950
+They're saying it's a major blackout.
 
 151
-00:10:33,080 --> 00:10:35,820
-I'm an idiot for coming
-running the moment you called.
+00:09:59,600 --> 00:10:00,800
+Even the trains have stopped.
 
 152
-00:10:38,210 --> 00:10:40,380
-This guy looks down on everyone.
+00:10:02,240 --> 00:10:04,920
+I heard winter lightning
+carries a much stronger current.
 
 153
-00:10:41,050 --> 00:10:42,050
-Me,
+00:10:09,750 --> 00:10:10,850
+Well, since we're stuck...
 
 154
-00:10:42,330 --> 00:10:43,330
-and you too.
+00:10:12,100 --> 00:10:13,200
+Want to do something?
 
 155
-00:10:44,980 --> 00:10:46,540
-Rating people
+00:10:16,910 --> 00:10:19,140
+In this freezing weather?
+I can't believe you're in the mood.
 
 156
-00:10:48,050 --> 00:10:50,010
-and tossing them aside
-whenever he feels like it.
+00:10:19,140 --> 00:10:21,750
+Huddling together might keep us warm.
 
 157
-00:10:50,910 --> 00:10:52,370
-Who does that?
+00:10:37,670 --> 00:10:38,870
+It's fine, go ahead and smoke.
 
 158
-00:10:56,690 --> 00:10:58,650
-You're better off not
-wasting your time with him.
+00:10:39,540 --> 00:10:40,740
+I thought you were quitting.
 
 159
-00:11:02,065 --> 00:11:03,510
-What is he talking about?
+00:10:40,980 --> 00:10:42,080
+It's not so much quitting
 
 160
-00:11:03,700 --> 00:11:06,850
-He's totally got the wrong idea.
+00:10:42,160 --> 00:10:44,210
+as it is just saving the money.
 
 161
-00:11:10,250 --> 00:11:11,250
-I don't want
+00:10:45,660 --> 00:10:46,660
+I see.
 
 162
-00:11:11,540 --> 00:11:12,540
-to keep lying to myself
+00:11:02,150 --> 00:11:03,150
+Hey, Kuji.
 
 163
-00:11:13,680 --> 00:11:15,260
-in front of this man anymore.
+00:11:05,060 --> 00:11:06,850
+Why did you choose medical translation?
 
 164
-00:11:18,400 --> 00:11:19,400
-I'm sorry.
+00:11:11,400 --> 00:11:12,720
+Because there's a demand for it.
 
 165
-00:11:26,580 --> 00:11:28,230
-I know I'm terrible.
+00:11:14,670 --> 00:11:15,870
+That's it?
 
 166
-00:11:29,430 --> 00:11:30,520
-About the "zero points"...
+00:11:17,330 --> 00:11:19,510
+I wanted to use my knowledge and skills
 
 167
-00:11:31,670 --> 00:11:33,760
-That's really what I thought at first.
+00:11:20,810 --> 00:11:22,500
+to actually help people.
 
 168
-00:11:35,340 --> 00:11:36,340
-But
+00:11:25,530 --> 00:11:26,530
+It sounds cliché,
 
 169
-00:11:36,380 --> 00:11:37,740
-it's not like that anymore.
+00:11:27,930 --> 00:11:29,280
+but I really mean it.
 
 170
-00:11:38,400 --> 00:11:39,530
-I'm not good at this,
+00:11:33,130 --> 00:11:34,130
+Yeah.
 
 171
-00:11:39,790 --> 00:11:41,330
-- but I...
-- Don't touch me.
+00:11:35,450 --> 00:11:36,450
+I get that.
 
 172
-00:11:43,260 --> 00:11:44,740
-I'm not like you.
+00:11:38,820 --> 00:11:40,750
+This relationship without a name...
 
 173
-00:11:47,890 --> 00:11:48,890
-I should just quit you.
+00:11:41,990 --> 00:11:43,090
+is it ending today, too?
 
 174
-00:11:50,100 --> 00:11:52,040
-This isn't like me at all.
+00:11:44,870 --> 00:11:45,870
+Ah.
 
 175
-00:11:54,920 --> 00:11:56,390
-If I knew it would hurt this much,
+00:11:53,150 --> 00:11:54,720
+The trains should be running again soon.
 
 176
-00:11:57,950 --> 00:12:00,430
-I never would've slept with you.
+00:11:56,500 --> 00:11:57,710
+Looks like you'll make the last train.
 
 177
-00:12:04,420 --> 00:12:05,720
-Fukami...
+00:12:01,980 --> 00:12:03,460
+That deadline tomorrow...
 
 178
-00:12:09,260 --> 00:12:11,400
-Life isn't a story.
+00:12:04,210 --> 00:12:05,410
+is it for a book?
 
 179
-00:12:12,460 --> 00:12:14,560
-There's no such thing as "the one."
+00:12:05,640 --> 00:12:06,840
+Or is it medical?
 
 180
-00:12:15,810 --> 00:12:19,000
-"Happily ever after"
+00:12:10,010 --> 00:12:11,110
+It's for a publisher.
 
 181
-00:12:19,025 --> 00:12:19,642
-[To Akihiro-chan]
+00:12:11,720 --> 00:12:12,820
+Then let me help.
 
 182
-00:12:19,690 --> 00:12:21,000
-is just a fantasy.
+00:12:13,990 --> 00:12:15,190
+I'll make sure
 
 183
-00:12:23,460 --> 00:12:24,560
-That's why I decided
+00:12:15,900 --> 00:12:17,000
+you hit your deadline.
 
 184
-00:12:24,900 --> 00:12:27,200
-to find comfort with people as lonely as me
+00:12:18,700 --> 00:12:19,700
+I have no idea what you're talking about.
 
 185
-00:12:27,990 --> 00:12:30,570
-and live my life that way.
+00:12:20,260 --> 00:12:21,540
+Let me be blunt then.
 
 186
-00:12:40,360 --> 00:12:42,080
-Of course he's angry.
+00:12:23,700 --> 00:12:26,600
+I'm expecting some serious overtime pay.
 
 187
-00:12:44,050 --> 00:12:45,610
-I trampled on his feelings
+00:12:40,170 --> 00:12:43,090
+Three months have passed since I reunited
+with my hated former colleague.
 
 188
-00:12:45,940 --> 00:12:47,140
-and lied to him.
+00:12:45,070 --> 00:12:46,170
+It's been both stimulating
 
 189
-00:12:48,060 --> 00:12:49,060
-All of this
+00:12:48,410 --> 00:12:49,560
+and surprisingly comfortable.
 
 190
-00:12:49,380 --> 00:12:50,770
-is my own fault.
+00:12:52,040 --> 00:12:54,160
+They were peaceful, steady days.
 
 191
-00:12:56,270 --> 00:12:58,470
-I don't know how to start a relationship,
+00:13:06,300 --> 00:13:08,380
+Ah, all done.
 
 192
-00:12:59,300 --> 00:13:01,290
-and I don't know how to end one.
+00:13:10,200 --> 00:13:11,360
+Good work.
 
 193
-00:13:03,860 --> 00:13:06,306
-(Next time) Hey, I heard someone
-from Tech was in a car accident.
+00:13:24,490 --> 00:13:25,490
+The sun's coming up.
 
 194
-00:13:06,330 --> 00:13:08,040
-I heard they were brought here.
+00:13:32,010 --> 00:13:33,010
+Are you hungry?
 
 195
-00:13:08,350 --> 00:13:09,310
-Are they here?
+00:13:35,670 --> 00:13:36,670
+Not really.
 
 196
-00:13:09,311 --> 00:13:11,220
-That person is very important to me.
+00:13:39,620 --> 00:13:40,620
+More importantly,
 
 197
-00:13:11,770 --> 00:13:12,650
-I like you.
+00:13:40,800 --> 00:13:42,000
+give me a cigarette.
 
 198
-00:13:12,651 --> 00:13:15,080
-Even if you only look at
-me with lust in your eyes...
+00:13:44,080 --> 00:13:45,080
+Huh?
 
 199
-00:13:15,090 --> 00:13:17,570
-One day, I'm going to
-make him head over heels for me.
+00:13:45,130 --> 00:13:46,130
+Here.
+
+200
+00:13:46,400 --> 00:13:47,400
+Ah.
+
+201
+00:14:06,660 --> 00:14:08,060
+If I leave right now,
+
+202
+00:14:08,650 --> 00:14:10,130
+you'll be lonely, won't you?
+
+203
+00:14:12,400 --> 00:14:13,820
+What are you even talking about?
+
+204
+00:14:21,610 --> 00:14:22,610
+It's freezing.
+
+205
+00:14:30,040 --> 00:14:31,850
+Have you ever seen the movie
+"Blue in the Face"?
+
+206
+00:14:34,460 --> 00:14:35,460
+Oh...
+
+207
+00:14:35,730 --> 00:14:37,200
+That's the sequel to "Smoke," right?
+
+208
+00:14:38,070 --> 00:14:39,070
+Yeah, I've seen it.
+
+209
+00:14:42,050 --> 00:14:43,850
+There's this heavy smoker
+
+210
+00:14:44,550 --> 00:14:45,710
+who decides to quit.
+
+211
+00:14:45,710 --> 00:14:49,710
+There's a scene where he shares
+one last cigarette with the protagonist.
+
+212
+00:14:54,600 --> 00:14:56,120
+I always loved that scene.
+
+213
+00:15:03,550 --> 00:15:05,070
+So, is this your last one?
+
+214
+00:15:07,280 --> 00:15:08,280
+Who knows.
+
+215
+00:15:17,880 --> 00:15:20,000
+After all the preparation,
+
+216
+00:15:20,890 --> 00:15:21,890
+it's finally started.
+
+217
+00:15:22,090 --> 00:15:24,040
+My life as a cram school teacher.
+
+218
+00:15:24,530 --> 00:15:27,760
+Before the word "human,"
+
+219
+00:15:28,670 --> 00:15:29,890
+there's actually a hidden "that" here.
+
+220
+00:15:30,110 --> 00:15:31,110
+And then, this...
+
+221
+00:15:31,520 --> 00:15:32,520
+Ah.
+
+222
+00:15:32,710 --> 00:15:33,630
+Yeah.
+
+223
+00:15:33,630 --> 00:15:34,580
+Can you reach it?
+
+224
+00:15:34,580 --> 00:15:34,980
+Yeah.
+
+225
+00:15:35,020 --> 00:15:36,020
+I think so.
+
+226
+00:15:41,410 --> 00:15:42,890
+A place that once felt so foreign
+
+227
+00:15:43,010 --> 00:15:44,550
+is slowly becoming familiar.
+
+228
+00:15:45,280 --> 00:15:45,910
+Here you go.
+
+229
+00:15:46,010 --> 00:15:48,800
+- Wait, there's dust on it.
+- I said I was sorry.
+
+230
+00:15:48,800 --> 00:15:51,510
+- No, no, stop!
+- Let me just get it off.
+
+231
+00:15:57,699 --> 00:16:01,239
+[Searching for properties in Tokyo with a
+veranda with zero results]
+
+232
+00:16:08,460 --> 00:16:10,060
+I really want a smoke.
+
+233
+00:16:18,800 --> 00:16:23,000
+(Kuji Shizuka)
+
+234
+00:16:49,370 --> 00:16:51,160
+This source text has a lot of personality.
+
+235
+00:17:15,820 --> 00:17:17,170
+"Song of Spring."
+
+236
+00:17:17,730 --> 00:17:19,030
+How would you translate this?
+
+237
+00:17:58,210 --> 00:17:59,210
+Hey.
+
+238
+00:17:59,680 --> 00:18:00,680
+I've been meaning to ask.
+
+239
+00:18:00,750 --> 00:18:03,160
+Why don't you ever translate
+words like "I" or "my"?
+
+240
+00:18:03,590 --> 00:18:04,840
+You called me just to ask that?
+
+241
+00:18:05,340 --> 00:18:06,590
+Well, usually,
+
+242
+00:18:06,950 --> 00:18:08,970
+people would use "I" in the translation.
+
+243
+00:18:09,520 --> 00:18:10,660
+But your draft doesn't have a single one.
+
+244
+00:18:10,660 --> 00:18:11,690
+I was wondering why.
+
+245
+00:18:15,360 --> 00:18:19,060
+Are you talking about "Song of Spring"?
+
+246
+00:18:19,570 --> 00:18:21,140
+It's been bugging me.
+
+247
+00:18:21,140 --> 00:18:22,560
+I can't stop thinking about it.
+
+248
+00:18:34,270 --> 00:18:35,370
+I just felt like having "I" in there
+
+249
+00:18:35,450 --> 00:18:37,220
+didn't feel right, no matter how I phrased it.
+
+250
+00:18:37,510 --> 00:18:39,360
+So I decided to avoid the first person entirely.
+
+251
+00:18:40,190 --> 00:18:41,390
+Does it sound unnatural?
+
+252
+00:18:41,670 --> 00:18:42,670
+No.
+
+253
+00:18:42,780 --> 00:18:46,280
+Then why did you translate "Bluebell"
+as "little blue flower"?
+
+254
+00:18:46,500 --> 00:18:48,450
+I was prioritizing the flow of the rhythm.
+
+255
+00:18:49,350 --> 00:18:50,450
+It is verse, after all.
+
+256
+00:18:59,940 --> 00:19:02,540
+Do cram school teachers
+have to do this kind of work too?
+
+257
+00:19:05,210 --> 00:19:06,210
+Actually,
+
+258
+00:19:07,680 --> 00:19:10,090
+I've decided to go to translation school.
+
+259
+00:19:14,140 --> 00:19:15,140
+What?
+
+260
+00:19:16,610 --> 00:19:17,810
+It's only once a week,
+
+261
+00:19:18,240 --> 00:19:19,810
+but I wanted to give it a real shot.
+
+262
+00:19:20,120 --> 00:19:23,360
+So I'm just going to try it.
+
+263
+00:19:26,580 --> 00:19:27,880
+I see.
+
+264
+00:19:30,720 --> 00:19:32,800
+Why do you look so happy about it?
+
+265
+00:19:33,310 --> 00:19:34,310
+Huh?
+
+266
+00:19:34,460 --> 00:19:35,460
+No,
+
+267
+00:19:36,340 --> 00:19:37,410
+well...
+
+268
+00:19:38,490 --> 00:19:41,010
+It is pretty strange, isn't it?
+
+269
+00:19:41,790 --> 00:19:42,790
+It's very strange.
+
+270
+00:19:52,070 --> 00:19:53,370
+Want to go get some curry udon?
+
+271
+00:20:11,650 --> 00:20:13,340
+Give me one of those.
+
+272
+00:20:18,240 --> 00:20:20,020
+I thought you were quitting.
+
+273
+00:20:21,500 --> 00:20:24,460
+I told you, I'm not quitting.
+
+274
+00:20:24,960 --> 00:20:27,480
+I'm just trying to save money.
+
+275
+00:20:29,740 --> 00:20:30,840
+That attitude of yours
+
+276
+00:20:31,470 --> 00:20:33,030
+is the absolute worst.
+
+277
+00:20:34,740 --> 00:20:36,330
+Between school and everything,
+
+278
+00:20:36,980 --> 00:20:39,630
+I'm also looking for a new place.
+
+279
+00:20:42,110 --> 00:20:43,520
+Are you moving out of your sister's?
+
+280
+00:20:44,880 --> 00:20:47,660
+My brother-in-law is coming back.
+
+281
+00:20:48,790 --> 00:20:52,380
+I can't just stay there and be in the way.
+
+282
+00:20:54,720 --> 00:20:55,720
+I see.
+
+283
+00:20:58,060 --> 00:20:59,060
+But honestly,
+
+284
+00:20:59,780 --> 00:21:01,240
+it's going to be tough.
+
+285
+00:21:02,360 --> 00:21:04,050
+I have some savings,
+
+286
+00:21:04,720 --> 00:21:07,230
+but moving is so expensive.
+
+287
+00:21:13,010 --> 00:21:14,010
+In that case,
+
+288
+00:21:15,550 --> 00:21:16,650
+why don't you just stay at my place?
+
+289
+00:21:19,070 --> 00:21:20,070
+Wait, what?
+
+290
+00:21:22,520 --> 00:21:23,520
+What?
+
+291
+00:21:23,740 --> 00:21:24,840
+I mean,
+
+292
+00:21:25,600 --> 00:21:27,320
+it wouldn't be for long.
+
+293
+00:21:28,950 --> 00:21:30,660
+Until you find your next place,
+
+294
+00:21:31,400 --> 00:21:32,900
+you can use the spare room.
+
+295
+00:21:37,070 --> 00:21:38,070
+Are you serious?
+
+296
+00:21:40,890 --> 00:21:42,850
+You're out during the day anyway.
+
+297
+00:21:44,750 --> 00:21:46,320
+And if you want to study translation,
+
+298
+00:21:46,910 --> 00:21:48,780
+I have plenty of reference books.
+
+299
+00:21:50,350 --> 00:21:51,350
+Well,
+
+300
+00:21:52,820 --> 00:21:54,420
+if you don't mind...
+
+301
+00:22:09,610 --> 00:22:10,900
+I'll be in your care, then.
+
+302
+00:22:14,220 --> 00:22:15,420
+You're being dramatic.
+
+303
+00:22:18,860 --> 00:22:19,860
+Um...
+
+304
+00:22:20,380 --> 00:22:21,580
+Kuji-san?
+
+305
+00:22:25,890 --> 00:22:26,890
+What?
+
+306
+00:22:27,800 --> 00:22:28,900
+The curry udon.
+
+307
+00:22:29,510 --> 00:22:30,610
+Is it ready yet?
+
+308
+00:22:36,960 --> 00:22:38,060
+Alright, alright.
+
+309
+00:22:42,690 --> 00:22:43,690
+Let me help.
+
+310
+00:22:46,920 --> 00:22:48,020
+Stop it.
+
+311
+00:22:49,680 --> 00:22:51,770
+Cut it out. Get away from me.
+
+312
+00:22:51,980 --> 00:22:53,320
+No matter the weather,
+
+313
+00:22:54,140 --> 00:22:55,550
+being in this house
+
+314
+00:22:55,750 --> 00:22:56,810
+doesn't seem so bad.
+
+315
+00:23:00,480 --> 00:23:01,810
+(Next Episode)
+At this age,
+
+316
+00:23:01,870 --> 00:23:03,440
+I'm actually chasing a dream.
+
+317
+00:23:03,640 --> 00:23:04,610
+I'm home.
+
+318
+00:23:04,610 --> 00:23:05,810
+Go wash your hands.
+
+319
+00:23:05,880 --> 00:23:07,330
+Is your brother moving in in May?
+
+320
+00:23:07,330 --> 00:23:08,840
+You didn't say a word about this.
+
+321
+00:23:08,920 --> 00:23:10,290
+Get up. Let's go home.
+
+322
+00:23:10,290 --> 00:23:14,410
+That house really suits you.
 
